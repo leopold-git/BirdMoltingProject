@@ -1,0 +1,112 @@
+photo_id,season ,species ,species_n,location,location_number,wing_linearity,label
+bgNoMolt1,1,Bonaparte's Gull,1,"Maryland, United States",13,1,0
+bgNoMolt6,1,Bonaparte's Gull,1,"Pennsylvania, United States",24,1,0
+bgNoMolt7,1,Bonaparte's Gull,1,"Tennesse, United States",32,1,0
+bgMolt1,2,Bonaparte's Gull,1,"California, United States",4,0,1
+bgMolt5,2,Bonaparte's Gull,1,"New York, United States",17,0,1
+bgMolt4,2,Bonaparte's Gull,1,"Ontario, Canada",22,0,1
+bgMolt6,2,Bonaparte's Gull,1,"Ontario, Canada",22,0,1
+bgMolt2,2,Bonaparte's Gull,1,"Quebec, Canada",25,0,1
+bgMolt,2,Bonaparte's Gull,1,"Quebec, Canada",25,0,1
+bgMolt3,2,Bonaparte's Gull,1,"Washington, United States",33,0,1
+bgNoMolt4,3,Bonaparte's Gull,1,"Idaho, United States",10,1,0
+bgNoMolt5,3,Bonaparte's Gull,1,"British Columbia, Canada",3,1,0
+bgNoMolt9,3,Bonaparte's Gull,1,"Colorado, United States",6,1,0
+bgNoMolt2,3,Bonaparte's Gull,1,"Ohio, United States",21,1,0
+bgNoMolt3,3,Bonaparte's Gull,1,"Ontario, Canada",22,1,0
+bgNoMolt8,4,Bonaparte's Gull,1,"Hawaii, United States",9,1,0
+bgNoMolt,4,Bonaparte's Gull,1,"Stann Creek, Belize",30,1,0
+pMolt4,1,Pink-Footed Shearwater,2,"California, United States",4,0,1
+pMolt5,1,Pink-Footed Shearwater,2,"California, United States",4,0,1
+pMolt3,1,Pink-Footed Shearwater,2,"California, United States",4,0,1
+pNoMolt5,1,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pMolt,1,Pink-Footed Shearwater,2,"Baja California, Mexico",2,0,1
+pNoMolt3,1,Pink-Footed Shearwater,2,"British Columbia, Canada",3,1,0
+pNoMolt6,2,Pink-Footed Shearwater,2,"British Columbia, Canada",3,1,0
+pMolt7,2,Pink-Footed Shearwater,2,"California, United States",4,0,1
+pNoMolt11,2,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pNoMolt2,2,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pMolt6,2,Pink-Footed Shearwater,2,"California, United States",4,0,1
+pNoMolt9,2,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pMolt1,2,Pink-Footed Shearwater,2,"California, United States",4,1,1
+pNoMolt4,2,Pink-Footed Shearwater,2,"California, United States",4,0,0
+pNoMolt12,2,Pink-Footed Shearwater,2,"Oregon, United States",23,1,0
+pNoMolt13,2,Pink-Footed Shearwater,2,"San Francisco, California",27,1,0
+pMolt2,2,Pink-Footed Shearwater,2,"Washington, United States",33,0,1
+pNoMolt10,3,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pNoMolt14,3,Pink-Footed Shearwater,2,"British Columbia, Canada",3,1,0
+pNoMolt1,3,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pNoMolt,3,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pNoMolt7,3,Pink-Footed Shearwater,2,"California, United States",4,1,0
+pNoMolt8,3,Pink-Footed Shearwater,2,"California, United States",4,0,0
+Molt10,1,Sooty Shearwater,3,"British Columbia, Canada",3,0,1
+Molt9,1,Sooty Shearwater,3,"Fujairah, United Arab Emirates",8,0,1
+NoMolt18,1,Sooty Shearwater,3,"North Carolina, United States",18,1,0
+Molt23,1,Sooty Shearwater,3,"California, United States",4,0,1
+NoMolt41,1,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt42,1,Sooty Shearwater,3,"California, United States",4,0,1
+Molt12,1,Sooty Shearwater,3,"Massachusetts, United States",14,0,1
+Molt12.jpg,1,Sooty Shearwater,3,"Massachusetts, United States",14,0,0
+NoMolt36,1,Sooty Shearwater,3,"Tasmania, Australia",31,1,0
+NoMolt16,1,Sooty Shearwater,3,"Washington, United States",33,1,0
+NoMolt.jpg,1,Sooty Shearwater,3,"Western Cape, South Africa",34,1,0
+NoMolt23.jpg,2,Sooty Shearwater,3,"California, United States",4,0,0
+Molt4,2,Sooty Shearwater,3,"California, United States",4,0,1
+Molt7,2,Sooty Shearwater,3,"California, United States",4,0,1
+NoMolt20.jpg,2,Sooty Shearwater,3,"California, United States",4,1,0
+Molt21,2,Sooty Shearwater,3,"California, United States",4,0,1
+NoMolt1.jpg,2,Sooty Shearwater,3,"California, United States",4,0,0
+NoMolt38,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt7.jpg,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt9.jpg,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt2.jpg,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt8.jpg,2,Sooty Shearwater,3,"California, United States ",4,1,0
+NoMolt3.jpg,2,Sooty Shearwater,3,"Massachusetts, United States",14,1,0
+NoMolt19.jpg,2,Sooty Shearwater,3,"New Brunswick, Canada",15,0,0
+NoMolt6.jpg,2,Sooty Shearwater,3,"New Brunswick, Canada",15,1,0
+NoMolt33.jpg,2,Sooty Shearwater,3,"Oregon, United States",23,1,0
+Molt5,2,Sooty Shearwater,3,"Rhode Island, United States",26,0,1
+NoMolt35,2,Sooty Shearwater,3,"Western Cape, South Africa",34,1,1
+NoMolt12.jpg,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt39,2,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt.jpg,2,Sooty Shearwater,3,"New Brunswick, Canada",15,1,0
+Molt6,3,Sooty Shearwater,3,"California, United States",4,0,1
+NoMolt5.jpg,3,Sooty Shearwater,3,"Alaska, United States",1,0,0
+Molt11,3,Sooty Shearwater,3,"British Columbia, Canada",3,0,1
+NoMolt14.jpg,3,Sooty Shearwater,3,"British Columbia, Canada",3,1,0
+NoMolt15.jpg,3,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt37,3,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt22.jpg,3,Sooty Shearwater,3,"California, United States",4,1,0
+NoMolt4.jpg,3,Sooty Shearwater,3,"Kwazulu-Natal, South Africa",11,1,0
+NoMolt40,3,Sooty Shearwater,3,Spain,29,1,0
+Molt24,3,Sooty Shearwater,3,Western Sahara,35,0,1
+NoMolt43,3,Sooty Shearwater,3,Chile,5,1,0
+Molt20,4,Sooty Shearwater,3,"California, United States",4,0,1
+NoMolt24.jpg,4,Sooty Shearwater,3,"North Carolina, United States",18,0,0
+Molt22,4,Sooty Shearwater,3,"California, United States",4,0,1
+Molt2,4,Sooty Shearwater,3,"California, United States",4,0,1
+wsNoMolt5,2,Wilson Storm Petrel,4,"El Callao, Peru",7,1,0
+wsNoMolt7,2,Wilson Storm Petrel,4,"El Callao, Peru",7,1,0
+wsMolt7,2,Wilson Storm Petrel,4,"New Jersey, United States",16,0,1
+wsMolt9,2,Wilson Storm Petrel,4,"New York, United States",17,0,1
+wsMolt6,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsNoMolt6,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsNoMolt9,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsNoMolt12,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsNoMolt10,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsMolt2,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsMolt3,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsMolt4,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsNoMolt,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsNoMolt1,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsMolt5,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsNoMolt3,2,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsMolt,2,Wilson Storm Petrel,4,"North Carolina, United States",18,0,1
+wsMolt10,2,Wilson Storm Petrel,4,"Nova Scotia, Canada",20,0,1
+wsNoMolt11,2,Wilson Storm Petrel,4,"Nova Scotia, Canada",20,1,0
+wsNoMolt13,2,Wilson Storm Petrel,4,"Nova Scotia, Canada",20,1,0
+wsNoMolt8,2,Wilson Storm Petrel,4,"Nova Scotia, Canada",20,1,0
+wsMolt8,2,Wilson Storm Petrel,4,"Northern Territory, Australia",19,0,1
+wsNoMolt2,3,Wilson Storm Petrel,4,"North Carolina, United States",18,1,0
+wsMolt1,4,Wilson Storm Petrel,4,"Maine, United States",12,0,1
+wsNoMolt4,4,Wilson Storm Petrel,4,Sandwich Islands,28,1,0
